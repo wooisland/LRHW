@@ -24,3 +24,5 @@ if people > buses
 else
 	puts "Fine, let's stay home then"
 end
+
+puts "Hello World" if 1 == 1
